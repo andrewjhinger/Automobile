@@ -1,16 +1,16 @@
 #Automobile
 
-##Environment:
+###Environment:
 
 Windows console application
 
-##Concepts used:
+###Concepts used:
 
 Classes, methods, variables, operators
 
 ![alt tag](https://raw.github.com/andrewjhinger/Automobile/master/automobileclass.JPG)
 
-##Functionality:
+###Functionality:
 
 The Automobile class instantiates a _myAutomobile class, assigns values to the class properties, and writes a message about the automobile to the console.
 
