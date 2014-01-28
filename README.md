@@ -12,6 +12,6 @@ Classes, methods, variables, operators
 
 ##Functionality:
 
-The DrawShapes form can draw a Rectangle, an Ellipse, or a line on a drawing area. The Ellipse and Rectangle can be filled and the drawing area can be reset. 
+The Automobile class instantiates a _myAutomobile class, assigns values to the class properties, and writes a message about the automobile to the console.
 
 ![alt tag](https://raw.github.com/andrewjhinger/Automobile/master/automobileconsole.JPG)
